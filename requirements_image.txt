@@ -1,0 +1,8 @@
+transformers
+datasets
+accelerate
+
+sentencepiece
+streamlit
+
+speedtest-cli
